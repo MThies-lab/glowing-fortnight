@@ -1,7 +1,6 @@
 # Ignore secret key files
-DALLE_Key
-OPENAI_API_KEY.txt
 set API Key script(jupyter).py
 *.key
 *.pem
+.env
 
